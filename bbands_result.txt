@@ -1,0 +1,126 @@
+AAV.BK
+Sharpe ratio: 1.78
+ADVANC.BK
+Sharpe ratio: -0.75
+AMATA.BK
+Sharpe ratio: -0.33
+AOT.BK
+Sharpe ratio: -0.04
+AP.BK
+Sharpe ratio: -0.28
+BA.BK
+Sharpe ratio: 0.14
+BANPU.BK
+Sharpe ratio: -1.64
+BAY.BK
+Sharpe ratio: -1.41
+BBL.BK
+Sharpe ratio: 0.08
+BCH.BK
+Sharpe ratio: 1.02
+BCP.BK
+Sharpe ratio: 0.25
+BDMS.BK
+Sharpe ratio: 0.63
+BEM.BK
+Sharpe ratio: 0.09
+BH.BK
+Sharpe ratio: 1.16
+BJC.BK
+Sharpe ratio: 0.35
+BLA.BK
+Sharpe ratio: 0.35
+BLAND.BK
+Sharpe ratio: 0.10
+BTS.BK
+Sharpe ratio: -0.98
+CBG.BK
+Sharpe ratio: 0.03
+CENTEL.BK
+Sharpe ratio: 0.92
+CK.BK
+Sharpe ratio: -0.13
+CKP.BK
+Sharpe ratio: -1.09
+CPALL.BK
+Sharpe ratio: -0.56
+CPF.BK
+Sharpe ratio: -0.51
+CPN.BK
+Sharpe ratio: 1.00
+DTAC.BK
+Sharpe ratio: -1.00
+EARTH.BK
+Sharpe ratio: 0.58
+HANA.BK
+Sharpe ratio: -0.63
+HMPRO.BK
+Sharpe ratio: 0.87
+ICHI.BK
+Sharpe ratio: -1.11
+INTUCH.BK
+Sharpe ratio: -0.85
+IRPC.BK
+Sharpe ratio: 0.28
+ITD.BK
+Sharpe ratio: 0.27
+IVL.BK
+Sharpe ratio: 0.23
+JAS.BK
+Sharpe ratio: -0.91
+KKP.BK
+Sharpe ratio: -0.68
+KTB.BK
+Sharpe ratio: -0.45
+LH.BK
+Sharpe ratio: -0.46
+LPN.BK
+Sharpe ratio: -0.94
+MAJOR.BK
+Sharpe ratio: 0.81
+MINT.BK
+Sharpe ratio: 0.37
+PS.BK
+Sharpe ratio: -0.13
+QH.BK
+Sharpe ratio: -0.87
+RATCH.BK
+Sharpe ratio: -0.59
+ROBINS.BK
+Sharpe ratio: -0.67
+SAMART.BK
+Sharpe ratio: -1.45
+SAWAD.BK
+Sharpe ratio: -0.00
+SCC.BK
+Sharpe ratio: 0.18
+SIRI.BK
+Sharpe ratio: -0.06
+SPALI.BK
+Sharpe ratio: -0.34
+STA.BK
+Sharpe ratio: -0.34
+STEC.BK
+Sharpe ratio: 0.48
+TCAP.BK
+Sharpe ratio: -0.22
+THAI.BK
+Sharpe ratio: -0.18
+THCOM.BK
+Sharpe ratio: 0.33
+TMB.BK
+Sharpe ratio: -1.00
+TOP.BK
+Sharpe ratio: 0.62
+TPIPL.BK
+Sharpe ratio: 0.32
+TRUE.BK
+Sharpe ratio: -0.91
+TTA.BK
+Sharpe ratio: -0.61
+TTCL.BK
+Sharpe ratio: -1.56
+TVO.BK
+Sharpe ratio: -0.73
+VGI.BK
+Sharpe ratio: -1.11
